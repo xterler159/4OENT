@@ -1,1 +1,1 @@
-#H1 Before running these scripts, you must install
+# Before running these scripts, you must install
